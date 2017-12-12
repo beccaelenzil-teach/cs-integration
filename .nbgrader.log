@@ -1,0 +1,51 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=88c4ce38164f60e51e46a41907a56f8b4ac9452bf3e2ab3c
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=88c4ce38164f60e51e46a41907a56f8b4ac9452bf3e2ab3c
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook advanced-algebra/matrices.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a8eea9b9-9eb8-4066-bee1-e5326d8662f2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a8eea9b9-9eb8-4066-bee1-e5326d8662f2
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
+[NotebookApp | INFO] Saving file at /advanced-algebra/matrices.ipynb
