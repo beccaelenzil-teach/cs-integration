@@ -1,0 +1,15 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-algebra
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=3e8d08e08fa02132d0a539f47366326460c670504a655cd4
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=3e8d08e08fa02132d0a539f47366326460c670504a655cd4
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook matrices.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 50267cd2-c541-4d89-a114-30d8cfd0700f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 50267cd2-c541-4d89-a114-30d8cfd0700f
