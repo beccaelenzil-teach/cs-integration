@@ -44,3 +44,52 @@
 [NotebookApp | INFO] Saving file at /rectangle-integration-tutorial.ipynb
 [NotebookApp | INFO] Saving file at /rectangle-integration-tutorial.ipynb
 [NotebookApp | INFO] Saving file at /rectangle-integration-tutorial.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=aa74daa97ba3167732ab897d82ba57c5eb012e76ad084102
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=aa74daa97ba3167732ab897d82ba57c5eb012e76ad084102
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 21bcb81d-524a-45bc-9f33-0c2f68809c43
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 21bcb81d-524a-45bc-9f33-0c2f68809c43
+[NotebookApp | WARNING] 404 GET /api/kernels/b564668e-478e-409b-b3e7-786a24a06f45/channels?session_id=A7C15D05656343C7964E08EAB27269F4 (::1): Kernel does not exist: b564668e-478e-409b-b3e7-786a24a06f45
+[NotebookApp | WARNING] 404 GET /api/kernels/b564668e-478e-409b-b3e7-786a24a06f45/channels?session_id=A7C15D05656343C7964E08EAB27269F4 (::1) 23.29ms referer=None
+[NotebookApp | WARNING] Replacing stale connection: b564668e-478e-409b-b3e7-786a24a06f45:A7C15D05656343C7964E08EAB27269F4
+[NotebookApp | WARNING] Replacing stale connection: b564668e-478e-409b-b3e7-786a24a06f45:A7C15D05656343C7964E08EAB27269F4
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 46bc85a2-83de-44bd-b67b-e32d142b6f59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 46bc85a2-83de-44bd-b67b-e32d142b6f59
+[NotebookApp | INFO] Saving file at /rectangle-integration-initials.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-initials.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 21bcb81d-524a-45bc-9f33-0c2f68809c43
+[NotebookApp | INFO] Saving file at /rectangle-integration-initials.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/Users/becca.elenzil/anaconda3/lib/python3.6/site-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/Users/becca.elenzil/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/Users/becca.elenzil/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/Users/becca.elenzil/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/Users/becca.elenzil/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+    
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Saving file at /rectangle-integration-initials.ipynb
