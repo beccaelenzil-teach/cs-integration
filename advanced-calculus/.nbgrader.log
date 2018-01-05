@@ -93,3 +93,46 @@
 [NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
 [NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
 [NotebookApp | INFO] Saving file at /rectangle-integration-initials.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=bbb07dca742c7c955fbd89999b24c1d009b5a01f753c56bc
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=bbb07dca742c7c955fbd89999b24c1d009b5a01f753c56bc
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 26bae576-2922-4947-a81b-4702dd69bbe6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26bae576-2922-4947-a81b-4702dd69bbe6
+[NotebookApp | INFO] Saving file at /rectangle-integration-tutorial.ipynb
+[NotebookApp | INFO] Kernel started: 5c627c03-bad8-45aa-a92d-c194eaba1e73
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5c627c03-bad8-45aa-a92d-c194eaba1e73
+[NotebookApp | INFO] Saving file at /rectangle-integration-initials.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=260f0507d4b3fdfe12bedd2078777a8c3eec4d98c12699a7
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=260f0507d4b3fdfe12bedd2078777a8c3eec4d98c12699a7
+[NotebookApp | WARNING] 404 GET /api/kernels/5c627c03-bad8-45aa-a92d-c194eaba1e73/channels?session_id=0F4F235ADE0E47CEAE02020569CCEC30 (::1): Kernel does not exist: 5c627c03-bad8-45aa-a92d-c194eaba1e73
+[NotebookApp | WARNING] 404 GET /api/kernels/5c627c03-bad8-45aa-a92d-c194eaba1e73/channels?session_id=0F4F235ADE0E47CEAE02020569CCEC30 (::1) 70.46ms referer=None
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 85317d97-3671-485c-9a0e-045b5d563891
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 85317d97-3671-485c-9a0e-045b5d563891
+[NotebookApp | INFO] Saving file at /rectangle-integration-tutorial.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-tutorial.ipynb
+[NotebookApp | WARNING] Notebook rectangle-integration-tutorial.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 85317d97-3671-485c-9a0e-045b5d563891
+[NotebookApp | INFO] Saving file at /rectangle-integration-tutorial.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook rectangle-integration-tutorial.ipynb
+[NotebookApp | INFO] Kernel started: c29cb3fa-e917-4db8-989f-2fe45d2d7f57
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c29cb3fa-e917-4db8-989f-2fe45d2d7f57
