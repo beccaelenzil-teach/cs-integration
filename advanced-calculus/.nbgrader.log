@@ -217,3 +217,28 @@
 [NotebookApp | INFO] Saving file at /reimann-sums.ipynb
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel b821abc5-9d67-4d5e-8222-d3c36886c840
 [NotebookApp | INFO] Saving file at /reimann-sums.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8889/?token=f074d7bcdf07a28842883c7e3c1462a6ede120017b940f86
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=f074d7bcdf07a28842883c7e3c1462a6ede120017b940f86
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook reimann-sums.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ab15648c-4498-4795-b637-f680ef2bcee1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ab15648c-4498-4795-b637-f680ef2bcee1
+[NotebookApp | INFO] Kernel started: ac313bbe-8865-4b07-97df-9a3c351218b1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ac313bbe-8865-4b07-97df-9a3c351218b1
+[NotebookApp | INFO] Saving file at /reimann-sums.ipynb
+[NotebookApp | INFO] Saving file at /reimann-sums.ipynb
+[NotebookApp | INFO] Saving file at /reimann-sums.ipynb
+[NotebookApp | INFO] Saving file at /reimann-sums.ipynb
+[NotebookApp | INFO] Saving file at /reimann-sums.ipynb
+[NotebookApp | INFO] Saving file at /reimann-sums.ipynb
+[NotebookApp | INFO] Saving file at /reimann-sums.ipynb
+[NotebookApp | INFO] Saving file at /reimann-sums.ipynb
