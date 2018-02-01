@@ -13,3 +13,18 @@
 [NotebookApp | WARNING] Notebook matrices.ipynb is not trusted
 [NotebookApp | INFO] Kernel started: 50267cd2-c541-4d89-a114-30d8cfd0700f
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 50267cd2-c541-4d89-a114-30d8cfd0700f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-algebra
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=c97a69838eb3bc0ef445a4fc43b76a67722254ec0f27acfd
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=c97a69838eb3bc0ef445a4fc43b76a67722254ec0f27acfd
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook matrices.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6cea48f7-72a8-40c8-8c91-5d4bb3f5f907
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6cea48f7-72a8-40c8-8c91-5d4bb3f5f907

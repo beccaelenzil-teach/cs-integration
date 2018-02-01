@@ -242,3 +242,260 @@
 [NotebookApp | INFO] Saving file at /reimann-sums.ipynb
 [NotebookApp | INFO] Saving file at /reimann-sums.ipynb
 [NotebookApp | INFO] Saving file at /reimann-sums.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8890/?token=d01f02ad54fcb444d9b64d4b68c40f988b3809d635848271
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=d01f02ad54fcb444d9b64d4b68c40f988b3809d635848271
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook reimann-sums.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: cd10852c-cee2-44fd-a0c2-e6989274be9a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cd10852c-cee2-44fd-a0c2-e6989274be9a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=24a83ba1c19fd538019fced320a7d93ea0830db8056f2ec3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=24a83ba1c19fd538019fced320a7d93ea0830db8056f2ec3
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 26b1b589-c169-4eaa-8912-a73456eb64c8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 26b1b589-c169-4eaa-8912-a73456eb64c8
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | WARNING] Notebook reimann-sums.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a039b2b4-be36-4dee-991a-8676cc9c4b66
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a039b2b4-be36-4dee-991a-8676cc9c4b66
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 6621d3af-00fb-4319-9ec7-19e527ec380b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6621d3af-00fb-4319-9ec7-19e527ec380b
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel interrupted: 6621d3af-00fb-4319-9ec7-19e527ec380b
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /reimann-sums.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook reimann-sums.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=533d70b3e2b2a0e32b430757ea05a1917d70863dc95357df
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=533d70b3e2b2a0e32b430757ea05a1917d70863dc95357df
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 12fc33d3-97cb-4e44-8272-883c13024f99
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 12fc33d3-97cb-4e44-8272-883c13024f99
+[NotebookApp | INFO] Kernel started: f79e5688-c5ba-4103-bf7c-3d55d87bf97a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f79e5688-c5ba-4103-bf7c-3d55d87bf97a
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-name.ipynb
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 76f5c065-d76a-4e2d-8942-38c5be5040c3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 76f5c065-d76a-4e2d-8942-38c5be5040c3
+[NotebookApp | INFO] Saving file at /rectangle-integration-assignment.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-assignment.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | WARNING] Notebook reimann-sums.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: cf7ad3a4-c176-4aaa-91bc-244502363f88
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cf7ad3a4-c176-4aaa-91bc-244502363f88
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | WARNING] Notebook reimann-sums.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cf7ad3a4-c176-4aaa-91bc-244502363f88
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=2134a4a2ec3f0dd7909e37cda9351190b23068d493385c99
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=2134a4a2ec3f0dd7909e37cda9351190b23068d493385c99
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook rectangle-integration-between-curves.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 497b9df4-cdb9-48ee-90ed-97ced8f3b26c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 497b9df4-cdb9-48ee-90ed-97ced8f3b26c
+[NotebookApp | INFO] Kernel interrupted: 497b9df4-cdb9-48ee-90ed-97ced8f3b26c
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=8483ea7d2c5bcf2fad0687d8cb8f7fec4da2d44d7116d8cf
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=8483ea7d2c5bcf2fad0687d8cb8f7fec4da2d44d7116d8cf
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 155eedd8-c71b-4746-8884-9c6d037fc763
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 155eedd8-c71b-4746-8884-9c6d037fc763
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=1c9dbb9c475a00f286012b452362c7874805dafa7c57c132
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=1c9dbb9c475a00f286012b452362c7874805dafa7c57c132
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 8deb05b2-c2d5-4062-aba4-35bb0636d7ef
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8deb05b2-c2d5-4062-aba4-35bb0636d7ef
+[NotebookApp | INFO] Kernel started: f35a28ec-c010-4619-9d44-da0eb642ac1a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f35a28ec-c010-4619-9d44-da0eb642ac1a
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Copying rectangle-integration-between-curves.ipynb to 
+[NotebookApp | INFO] Kernel started: 671fa4bc-5e96-4953-9475-31ee3a529db2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 671fa4bc-5e96-4953-9475-31ee3a529db2
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-student.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-student.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-student.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-student.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-student.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-student.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-student.ipynb
+[NotebookApp | INFO] Copying rectangle-integration-between-curves-student.ipynb to 
+[NotebookApp | INFO] Kernel started: 4e28a0f4-10be-483b-9741-1888cc6a1f7b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4e28a0f4-10be-483b-9741-1888cc6a1f7b
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-name.ipynb
+[NotebookApp | INFO] Kernel interrupted: 671fa4bc-5e96-4953-9475-31ee3a529db2
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-name.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8889/?token=5c613cf6b0d2eb48150e6f8816d39187432aa2ddb1daa571
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=5c613cf6b0d2eb48150e6f8816d39187432aa2ddb1daa571
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 5ce67f70-98d9-4b1f-868e-100f4416e12c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5ce67f70-98d9-4b1f-868e-100f4416e12c
+[NotebookApp | INFO] Kernel started: 7c58cf6d-2f67-47e2-95df-756e78ee0630
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7c58cf6d-2f67-47e2-95df-756e78ee0630
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-solution.ipynb
