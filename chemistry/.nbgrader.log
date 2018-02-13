@@ -101,3 +101,99 @@
 [NotebookApp | INFO] Saving file at /Stoichiometry.ipynb
 [NotebookApp | INFO] Saving file at /Stoichiometry.ipynb
 [NotebookApp | INFO] Saving file at /Stoichiometry.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/chemistry
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=87058204c85fef1b0a7425fa4ce335aefc2832513346a83f
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=87058204c85fef1b0a7425fa4ce335aefc2832513346a83f
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: c3c7421e-ee54-450c-8f8f-6bdc347ef5a0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c3c7421e-ee54-450c-8f8f-6bdc347ef5a0
+[NotebookApp | INFO] Saving file at /Stoichiometry.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry.ipynb
+[NotebookApp | INFO] Copying Stoichiometry.ipynb to 
+[NotebookApp | INFO] Kernel started: a7619b56-34f7-4fe7-a2f1-e7d841adee5e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a7619b56-34f7-4fe7-a2f1-e7d841adee5e
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a7619b56-34f7-4fe7-a2f1-e7d841adee5e
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/chemistry
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=15fd572b583b94003cc5c3b7c3d55455b45ed43b96f8ba3c
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=15fd572b583b94003cc5c3b7c3d55455b45ed43b96f8ba3c
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Kernel interrupted: 45ec1d96-590d-40ec-bd7f-e97ff0fe2191
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 86a37151-1250-4243-ba71-f72e5441cf96
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 86a37151-1250-4243-ba71-f72e5441cf96
+[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Kernel interrupted: 86a37151-1250-4243-ba71-f72e5441cf96
+[NotebookApp | INFO] Kernel interrupted: 86a37151-1250-4243-ba71-f72e5441cf96
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Kernel interrupted: 86a37151-1250-4243-ba71-f72e5441cf96
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Kernel interrupted: 86a37151-1250-4243-ba71-f72e5441cf96
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Kernel interrupted: 86a37151-1250-4243-ba71-f72e5441cf96
+[NotebookApp | INFO] Kernel interrupted: 86a37151-1250-4243-ba71-f72e5441cf96
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
+[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
