@@ -544,3 +544,37 @@
 [NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-name.ipynb
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7d8a7b95-6a86-4869-969b-54a02fde4e40
 [NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-name.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=6a5131259c3b358fa8ac6a4842f2d59f3db7b24997491875
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=6a5131259c3b358fa8ac6a4842f2d59f3db7b24997491875
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 59c8df99-5296-4f7a-b768-716174e67359
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 59c8df99-5296-4f7a-b768-716174e67359
+[NotebookApp | INFO] Kernel interrupted: 59c8df99-5296-4f7a-b768-716174e67359
+[NotebookApp | WARNING] Notebook rectangle-integration-between-curves-solution.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a8b64d00-bb08-4ac6-b25f-9e8b11030743
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a8b64d00-bb08-4ac6-b25f-9e8b11030743
+[NotebookApp | INFO] Saving file at /rectangle-integration-tutorial.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=4f18cc1c04feb1f33ba643d63fff4a0bb9150e35c663bbc7
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=4f18cc1c04feb1f33ba643d63fff4a0bb9150e35c663bbc7
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: db2c7eb4-205c-4ca0-b527-0223b8ed486a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel db2c7eb4-205c-4ca0-b527-0223b8ed486a
+[NotebookApp | INFO] Saving file at /rectangle-integration-between-curves-name.ipynb
