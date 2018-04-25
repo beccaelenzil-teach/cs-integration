@@ -118,18 +118,3 @@
 [NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
 [NotebookApp | INFO] Kernel started: 1a6f8470-5cae-4eab-b00e-c7221e9239b3
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1a6f8470-5cae-4eab-b00e-c7221e9239b3
-[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
-[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
-[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/biology
-[NotebookApp | INFO] 0 active kernels 
-[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=6de877202a678040032b0ddc15dd4b82122732c845030572
-[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | CRITICAL] 
-    
-    Copy/paste this URL into your browser when you connect for the first time,
-    to login with a token:
-        http://localhost:8888/?token=6de877202a678040032b0ddc15dd4b82122732c845030572
-[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
-[NotebookApp | INFO] Kernel started: fcde653e-d72a-45f3-8c84-cc06fa262f79
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fcde653e-d72a-45f3-8c84-cc06fa262f79
-[NotebookApp | INFO] Saving file at /hardy-weinberg-tutorial.ipynb
