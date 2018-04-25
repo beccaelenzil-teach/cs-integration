@@ -605,26 +605,3 @@
 [NotebookApp | INFO] Saving file at /sequence-of-partial-sums.ipynb
 [NotebookApp | INFO] Saving file at /sequence-of-partial-sums.ipynb
 [NotebookApp | INFO] Saving file at /sequence-of-partial-sums.ipynb
-[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
-[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
-[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/advanced-calculus
-[NotebookApp | INFO] 0 active kernels 
-[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=58ea828385f6170bf64f603a81624530d0fa5948fc42accb
-[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | CRITICAL] 
-    
-    Copy/paste this URL into your browser when you connect for the first time,
-    to login with a token:
-        http://localhost:8888/?token=58ea828385f6170bf64f603a81624530d0fa5948fc42accb
-[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
-[NotebookApp | INFO] Kernel started: 8d295961-68ec-43a3-a8b7-83761c908271
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8d295961-68ec-43a3-a8b7-83761c908271
-[NotebookApp | INFO] Saving file at /sequence-of-partial-sums.ipynb
-[NotebookApp | INFO] Saving file at /sequence-of-partial-sums.ipynb
-[NotebookApp | INFO] Saving file at /sequence-of-partial-sums.ipynb
-[NotebookApp | INFO] Kernel started: 7ffad58b-0d82-4030-a26a-ee6a9f1b0be1
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7ffad58b-0d82-4030-a26a-ee6a9f1b0be1
-[NotebookApp | INFO] Kernel started: 5d0f4eda-d669-4506-b836-7b8891a2ddfc
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5d0f4eda-d669-4506-b836-7b8891a2ddfc
-[NotebookApp | INFO] Saving file at /rectangle-integration-tutorial.ipynb
-[NotebookApp | INFO] Saving file at /rectangle-integration-tutorial.ipynb
