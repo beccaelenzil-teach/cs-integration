@@ -197,35 +197,3 @@
 [NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
 [NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
 [NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
-[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
-[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
-[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/chemistry
-[NotebookApp | INFO] 0 active kernels 
-[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8889/?token=ed0f0c9d2bd2f82763bdb938e31956e3cbf9453687407805
-[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | CRITICAL] 
-    
-    Copy/paste this URL into your browser when you connect for the first time,
-    to login with a token:
-        http://localhost:8889/?token=ed0f0c9d2bd2f82763bdb938e31956e3cbf9453687407805
-[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
-[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
-[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
-[NotebookApp | INFO] Serving notebooks from local directory: /Users/becca.elenzil/Documents/GitHub-teach/math_science_cs_integration/chemistry
-[NotebookApp | INFO] 0 active kernels 
-[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=a29442fd2d8750fcd85be8859f994542975b54d391f7af80
-[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | CRITICAL] 
-    
-    Copy/paste this URL into your browser when you connect for the first time,
-    to login with a token:
-        http://localhost:8888/?token=a29442fd2d8750fcd85be8859f994542975b54d391f7af80
-[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
-[NotebookApp | INFO] Kernel started: edc89402-d804-4a7a-8d6b-72b3291c152e
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel edc89402-d804-4a7a-8d6b-72b3291c152e
-[NotebookApp | INFO] Kernel started: a46712af-15e3-4a78-be8e-dcd9b7e11872
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a46712af-15e3-4a78-be8e-dcd9b7e11872
-[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
-[NotebookApp | INFO] Saving file at /Stoichiometry-tutorial.ipynb
-[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
-[NotebookApp | INFO] Saving file at /stoichiometry-calculator.ipynb
