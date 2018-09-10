@@ -1,5 +1,5 @@
 test = {
-    'name': 'digits-test',
+    'name': 'digits_test',
     'suites': [
         {
             'cases': [
