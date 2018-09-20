@@ -1,0 +1,21 @@
+test = {
+    'name': 'strings_lists',
+    'suites': [
+        {
+            'cases': [
+                {
+                    'code': r"""
+                    >>> # This is another doctest.
+                    >>> # This will run if the previous doctest passed
+                    >>> answer1 == [7,1]
+                    >>> answer2 == [1,4,1,5,9]
+                    >>> answer6 == 'collude'
+                    >>> answer7 == 'arveyudd'
+                    >>> answer8 == 'hardeharharhar'
+                    True
+                    """
+                }
+            ]
+        }
+    ]
+}
